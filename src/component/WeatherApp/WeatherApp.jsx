@@ -39,7 +39,7 @@ const WeatherApp = () => {
             24°C
         </div>
         <div className="weather_location">
-            Delhi
+            Delhiff
         </div>
         <div className="data-container">
             <div className="element">
