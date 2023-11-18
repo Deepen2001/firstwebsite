@@ -36,7 +36,7 @@ const WeatherApp = () => {
             <img src={cloud_icon} alt="" />
         </div>
         <div className="weather_temp">
-            24°C
+            24°Css
         </div>
         <div className="weather_location">
             Delhiff
